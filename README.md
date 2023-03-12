@@ -1,1 +1,1 @@
-# stockfish_detector
+# A bot for Sacred
